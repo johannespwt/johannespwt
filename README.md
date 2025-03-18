@@ -1,5 +1,5 @@
 ## Hi there 👋
- I am a researcher at the Novo Nordisk Quantum Computing Programme at University of Copenhagen. I work the Algorithms and Application group, and I am interested in a variety of topic including (but not limited to)
+ I am a researcher at the Novo Nordisk Quantum Computing Programme at University of Copenhagen. I work in the Algorithms and Application group, and I am interested in a variety of topics including (but not limited to)
 - Open quantum systems
 - The Bloch--Redfield equation
 - Rigorous many-body quantum theory
