@@ -1,4 +1,9 @@
 ## Hi there 👋
+ I am a researcher at the Novo Nordisk Quantum Computing Programme at University of Copenhagen. I work the Algorithms and Application group, and I am interested in a variety of topic including (but not limited to)
+- Open quantum systems
+- The Bloch--Redfield equation
+- Rigorous many-body quantum theory
+- Quantum algorithms
 
 <!--
 **johannespwt/johannespwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
